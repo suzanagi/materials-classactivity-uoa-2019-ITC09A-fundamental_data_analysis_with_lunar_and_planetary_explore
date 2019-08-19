@@ -1,0 +1,16 @@
+\begindata
+  SITES = (
+          'USUDA')
+\begindata
+
+  USUDA_CENTER = 399
+  USUDA_FRAME  = 'ITRF93'
+  USUDA_IDCODE = 399004
+  USUDA_LATLON    = (  36.128889 , 138.365000 , 1.456 )
+  USUDA_UP     = 'Z'
+  USUDA_NORTH  = 'X'
+
+\begintext
+  USUDA : position 138 21' 54" E,  36 07' 44" N alt=1456 m
+  USUDA_XYZ    = ( , , )
+  USUDA_FRAME  = 'EARTH_FIXED'

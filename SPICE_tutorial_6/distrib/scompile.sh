@@ -1,0 +1,1 @@
+gcc -o $1 $1.c ../../cspice/lib/cspice.a -I ../../cspice/include/ -lm
