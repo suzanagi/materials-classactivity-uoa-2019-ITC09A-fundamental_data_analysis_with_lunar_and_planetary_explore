@@ -1,4 +1,4 @@
-# materials-classactivity-uoa-2019-ITC09A-fundamental_data_analysis_with_lunar_and_planetary_explore
+# ITC09A Fundamental Data Analysis with Lunar and Planetary Explorations
 Almost all mateials I've used in ITC09A.
 
 ## Attention
@@ -18,3 +18,4 @@ ITC09A
 - SPICE_tutorial_6
 - images (Summary of images used in the homeworks)
 - Exercise (All reports I've submitted as the homework)
+- cspice (Ommitted but you can download the latest version at [here](https://naif.jpl.nasa.gov/naif/toolkit_C.html))
