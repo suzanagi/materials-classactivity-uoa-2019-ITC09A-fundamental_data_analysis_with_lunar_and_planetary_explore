@@ -1,0 +1,12 @@
+prefix=/Users/shiranui/Documents/Public/Course/LunarAndPlanetaryExplorations/SPICE_tutorial/cfitsio-3.47
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: cfitsio
+Description: FITS File Subroutine Library
+URL: https://heasarc.gsfc.nasa.gov/fitsio/
+Version: 3.47
+Libs: -L${libdir} -lcfitsio 
+Libs.private: -lm
+Cflags: -I${includedir}

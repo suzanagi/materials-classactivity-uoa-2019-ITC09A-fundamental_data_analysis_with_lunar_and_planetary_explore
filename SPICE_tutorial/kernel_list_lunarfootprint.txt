@@ -1,0 +1,8 @@
+./kernels/generic_kernels/spk/planets/de403s.bsp
+./kernels/generic_kernels/pck/pck00010.tpc
+./kernels/generic_kernels/lsk/naif0012.tls
+./kernels/HAYABUSA/sclk/hayabusa.tsc
+./kernels/HAYABUSA/ik/amica31.ti
+./kernels/HAYABUSA/ik/nirs10.ti
+./kernels/HAYABUSA/spk/hayabusa_20040516-20040531.bsp
+./kernels/HAYABUSA/ck/20040517-20040517_att.bc

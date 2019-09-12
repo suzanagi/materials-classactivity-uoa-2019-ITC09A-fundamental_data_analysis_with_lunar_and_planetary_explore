@@ -1,0 +1,1 @@
+./swingby $( cat ./kernel_list_swingby.txt) > ./swingby.txt

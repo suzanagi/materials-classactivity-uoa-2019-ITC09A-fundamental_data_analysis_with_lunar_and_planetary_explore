@@ -1,0 +1,1 @@
+./rendezvous $( cat ./kernel_list_rendezvous.txt) > ./rendezvous.txt

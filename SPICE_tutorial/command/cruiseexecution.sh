@@ -1,0 +1,1 @@
+./cruise $( cat ./kernel_list_cruise.txt) > ./cruise.txt

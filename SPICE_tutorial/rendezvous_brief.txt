@@ -1,0 +1,169 @@
+ 
+BRIEF -- Version 4.0.0, September 8, 2010 -- Toolkit Version N0066
+ 
+ 
+Summary for: ./kernels/generic_kernels/spk/planets/de403s.bsp
+ 
+Bodies: MERCURY BARYCENTER (1)  SATURN BARYCENTER (6)   MERCURY (199)
+        VENUS BARYCENTER (2)    URANUS BARYCENTER (7)   VENUS (299)
+        EARTH BARYCENTER (3)    NEPTUNE BARYCENTER (8)  MOON (301)
+        MARS BARYCENTER (4)     PLUTO BARYCENTER (9)    EARTH (399)
+        JUPITER BARYCENTER (5)  SUN (10)                MARS (499)
+        Start of Interval (ET)              End of Interval (ET)
+        -----------------------------       -----------------------------
+        1979 DEC 01 00:00:00.000            2011 JAN 07 00:00:00.000
+ 
+ 
+BRIEF -- Version 4.0.0, September 8, 2010 -- Toolkit Version N0066
+ 
+ 
+================================================================================
+ 
+Toolkit version: N0066
+ 
+SPICE(NOFILES) --
+ 
+No binary SPK or PCK files to summarize were provided to the program.
+ 
+A traceback follows.  The name of the highest level module is first.
+BRIEF
+ 
+================================================================================
+ 
+BRIEF -- Version 4.0.0, September 8, 2010 -- Toolkit Version N0066
+ 
+ 
+================================================================================
+ 
+Toolkit version: N0066
+ 
+SPICE(NOFILES) --
+ 
+No binary SPK or PCK files to summarize were provided to the program.
+ 
+A traceback follows.  The name of the highest level module is first.
+BRIEF
+ 
+================================================================================
+ 
+BRIEF -- Version 4.0.0, September 8, 2010 -- Toolkit Version N0066
+ 
+ 
+================================================================================
+ 
+Toolkit version: N0066
+ 
+SPICE(NOFILES) --
+ 
+No binary SPK or PCK files to summarize were provided to the program.
+ 
+A traceback follows.  The name of the highest level module is first.
+BRIEF
+ 
+================================================================================
+ 
+BRIEF -- Version 4.0.0, September 8, 2010 -- Toolkit Version N0066
+ 
+ 
+Summary for: ./kernels/Itokawa/spk/sb_25143_140.bsp
+ 
+Body: ITOKAWA (2025143)
+      Start of Interval (ET)              End of Interval (ET)
+      -----------------------------       -----------------------------
+      2002 NOV 01 00:00:00.000            2006 AUG 08 00:00:00.000
+ 
+ 
+BRIEF -- Version 4.0.0, September 8, 2010 -- Toolkit Version N0066
+ 
+ 
+================================================================================
+ 
+Toolkit version: N0066
+ 
+SPICE(NOFILES) --
+ 
+No binary SPK or PCK files to summarize were provided to the program.
+ 
+A traceback follows.  The name of the highest level module is first.
+BRIEF
+ 
+================================================================================
+ 
+BRIEF -- Version 4.0.0, September 8, 2010 -- Toolkit Version N0066
+ 
+ 
+================================================================================
+ 
+Toolkit version: N0066
+ 
+SPICE(NOFILES) --
+ 
+No binary SPK or PCK files to summarize were provided to the program.
+ 
+A traceback follows.  The name of the highest level module is first.
+BRIEF
+ 
+================================================================================
+ 
+BRIEF -- Version 4.0.0, September 8, 2010 -- Toolkit Version N0066
+ 
+ 
+================================================================================
+ 
+Toolkit version: N0066
+ 
+SPICE(NOFILES) --
+ 
+No binary SPK or PCK files to summarize were provided to the program.
+ 
+A traceback follows.  The name of the highest level module is first.
+BRIEF
+ 
+================================================================================
+ 
+BRIEF -- Version 4.0.0, September 8, 2010 -- Toolkit Version N0066
+ 
+ 
+Summary for: ./kernels/HAYABUSA/spk/hay_jaxa_050916_051119_v1n.bsp
+ 
+Body: HAYABUSA (-130)*
+      Start of Interval (ET)              End of Interval (ET)
+      -----------------------------       -----------------------------
+      2005 SEP 16 05:42:48.850            2005 NOV 04 07:05:06.468
+      2005 NOV 08 05:02:32.168            2005 NOV 09 02:51:57.910
+      2005 NOV 11 15:51:41.248            2005 NOV 12 06:27:24.520
+      2005 NOV 19 12:28:24.338            2005 NOV 19 23:55:07.665
+ 
+ 
+BRIEF -- Version 4.0.0, September 8, 2010 -- Toolkit Version N0066
+ 
+ 
+Summary for: ./kernels/HAYABUSA/spk/hay_osbj_050911_051118_v1n.bsp
+ 
+Body: HAYABUSA (-130)
+      Start of Interval (ET)              End of Interval (ET)
+      -----------------------------       -----------------------------
+      2005 SEP 11 05:52:42.327            2005 NOV 03 22:19:06.187
+      2005 NOV 08 10:06:10.123            2005 NOV 08 20:06:40.509
+      2005 NOV 11 12:11:00.691            2005 NOV 11 20:59:54.014
+      2005 NOV 16 03:56:39.238            2005 NOV 16 23:20:49.947
+      2005 NOV 18 06:09:34.291            2005 NOV 18 21:57:26.398
+ 
+ 
+BRIEF -- Version 4.0.0, September 8, 2010 -- Toolkit Version N0066
+ 
+ 
+================================================================================
+ 
+Toolkit version: N0066
+ 
+SPICE(CKFILE) --
+ 
+Kernel './kernels/HAYABUSA/ck/hayabusa_itokawarendezvous_v02n.bc' is a CK and,
+therefore, cannot be summarized using BRIEF. Use CKBRIEF to summarize this
+file.
+ 
+A traceback follows.  The name of the highest level module is first.
+BRIEF
+ 
+================================================================================

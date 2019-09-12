@@ -1,0 +1,11 @@
+./kernels/generic_kernels/spk/planets/de403s.bsp
+./kernels/generic_kernels/pck/pck00010.tpc
+./kernels/generic_kernels/lsk/naif0012.tls
+./kernels/Itokawa/pck/itokawa_gaskell_n3.tpc
+./kernels/Itokawa/spk/sb_25143_140.bsp
+./kernels/HAYABUSA/sclk/hayabusa.tsc
+./kernels/HAYABUSA/ik/amica31.ti
+./kernels/HAYABUSA/fk/hayabusa_hp.tf
+./kernels/HAYABUSA/spk/hay_jaxa_050916_051119_v1n.bsp
+./kernels/HAYABUSA/spk/hay_osbj_050911_051118_v1n.bsp
+./kernels/HAYABUSA/ck/hayabusa_itokawarendezvous_v02n.bc

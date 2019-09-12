@@ -1,0 +1,1 @@
+./lunar_footprint $(cat kernel_list_lunarfootprint.txt) > lunarfootprint.txt

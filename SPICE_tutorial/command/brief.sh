@@ -1,0 +1,1 @@
+../cspice/exe/brief $1
